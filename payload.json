@@ -1,0 +1,645 @@
+[
+  {
+    "id": "1874950a-8cd3-4388-b8c7-b17b8942397c",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "e60fa7b1-fe94-42f8-a8cc-c3e5db8e1f60",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "8cad63af-7754-45f4-8e2a-92f0e15cb55c", "Value": 0 },
+          { "id": "951fbe0d-2d97-4bd7-ac55-5918e02cde02", "Value": 0 },
+          { "id": "64e265bb-5ac3-40ff-b7db-9093bf846e9e", "Value": 0 },
+          { "id": "07a5c86b-1c0f-432f-9098-f042d228a708", "Value": 0 },
+          { "id": "398f5abe-6843-4302-8e2a-9212fb1c8325", "Value": 0 }
+        ],
+        "items": [
+          { "id": "e27dd492-1101-418d-82be-c95955cf3f73", "ValeurRealTime": 0 },
+          { "id": "4a53317c-c5ff-487f-b666-02eaef1d60d4", "ValeurRealTime": 0 },
+          { "id": "f950905c-1775-41f6-8697-a10f6d006cc1", "ValeurRealTime": 0 },
+          { "id": "dafca7cd-7690-4471-bec1-3aac42eddcae", "ValeurRealTime": 0 },
+          { "id": "9dc86c01-d3f2-4194-a5fe-1597793b4213", "ValeurRealTime": 0 },
+          { "id": "a99d3ea4-ad93-41da-821a-ff547a0d554b", "ValeurRealTime": 0 },
+          { "id": "77c7a349-4afd-48e0-8771-99eaab2fa0e7", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "67692f13-672b-4320-b6d3-9a4a4137a042",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "b92b6886-008e-4ef7-9115-49ce7c28c5d9", "Value": 0 },
+          { "id": "1b53575a-c56f-410c-8410-13c0dd011a9c", "Value": 0 },
+          { "id": "48f97399-b0a1-4c24-a5f6-9513beb356b0", "Value": 0 },
+          { "id": "22aebe85-de58-45ef-a75c-83fc8c9534ba", "Value": 0 },
+          { "id": "3636ae63-d953-49ef-9879-b3fe2e3785be", "Value": 0 }
+        ],
+        "items": [
+          { "id": "7baa7074-b80b-4ddc-afe5-fc9a0f247040", "ValeurRealTime": 0 },
+          { "id": "dc3095c8-bc1b-40da-a2cd-3a31358782f0", "ValeurRealTime": 0 },
+          { "id": "17cfc0f2-d69d-4df5-b666-1c074a9a0700", "ValeurRealTime": 0 },
+          { "id": "e7308d48-ec03-4a64-a858-33da22baf8f0", "ValeurRealTime": 0 },
+          { "id": "d3e1af66-49ad-45af-a925-8560c4277578", "ValeurRealTime": 0 },
+          { "id": "08c6263e-b194-4b77-9a05-e825e4f26c4b", "ValeurRealTime": 0 },
+          { "id": "beac6c16-f4f1-482d-8945-0af100bd8797", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "8781651e-1276-4e96-8201-43b5896e83b7",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "b1fcc629-d417-4c17-befb-ab3db65a667b",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "2195457b-09f1-4107-a89c-7094c45b687d", "Value": 0 },
+          { "id": "5629f85b-46dd-4b66-83f7-fc4449fcaffc", "Value": 0 },
+          { "id": "a79199ec-a52f-4010-a6ad-b2450d5047b8", "Value": 0 },
+          { "id": "5898c412-2d07-4a6c-9648-c334a41ade00", "Value": 0 },
+          { "id": "cdeb783d-7722-4a42-8e21-bd0a73f04747", "Value": 0 }
+        ],
+        "items": [
+          { "id": "ca945cba-caf8-418d-b189-920f990f9085", "ValeurRealTime": 0 },
+          { "id": "9a29919c-48e5-4e60-802d-9609392cd169", "ValeurRealTime": 0 },
+          { "id": "3968e7d0-b294-4ba5-9985-4d79b3faf105", "ValeurRealTime": 0 },
+          { "id": "41fef33f-4e4a-4e2d-b22d-08b79b702365", "ValeurRealTime": 0 },
+          { "id": "5b177d7b-68f1-4f52-bcc0-c9131f8f52b2", "ValeurRealTime": 0 },
+          { "id": "cad52c77-8dfd-4fed-9c5b-031daa766d87", "ValeurRealTime": 0 },
+          { "id": "9eda757f-c024-42ff-baa1-32a829719a23", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "ef825ccb-1026-4092-85f6-9085cb3cb509",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "9003de95-0f0c-405c-b1f1-2d266d081158", "Value": 0 },
+          { "id": "19c47f9a-ec92-4fb5-8573-094c310e4277", "Value": 0 },
+          { "id": "8a1826ad-3f9b-4c80-80b5-6a5c4fa04414", "Value": 0 },
+          { "id": "84055e79-9ee0-4897-99b2-557d62f02c94", "Value": 0 },
+          { "id": "be4d1224-f13d-4a84-8474-14383fd1d5d9", "Value": 0 }
+        ],
+        "items": [
+          { "id": "6b8bf7cf-91fd-4a49-9d1a-3be3ce169af3", "ValeurRealTime": 0 },
+          { "id": "d04ef1d6-62b7-4a23-8948-b6364a629354", "ValeurRealTime": 0 },
+          { "id": "6a2170fd-5b31-43e9-9d06-5e75b2b3771c", "ValeurRealTime": 0 },
+          { "id": "fe86ddff-5c37-4a8b-acc9-f3067d6785fb", "ValeurRealTime": 0 },
+          { "id": "ed239577-87b3-4db8-a4e3-0f93c188a87d", "ValeurRealTime": 0 },
+          { "id": "133067c7-d5c2-49c3-909c-dd94153de05b", "ValeurRealTime": 0 },
+          { "id": "96b1594f-304a-4bd4-9013-7cec1378a03d", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "81ad3a3b-044e-47d1-b000-d7f359660756",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "13fe2321-add5-4ec7-992b-98ef6af2ac62",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "e9c9a86f-a205-4d05-a894-4a2a146f9864", "Value": 0 },
+          { "id": "5ba7e18b-6b5e-4029-be87-77d9c3ab586f", "Value": 0 },
+          { "id": "8bcc3c17-8496-4d48-93af-feb7657bffcf", "Value": 0 },
+          { "id": "245c738c-2f39-4e34-878a-f12b686a9ae7", "Value": 0 },
+          { "id": "66d69048-13c6-4589-92ac-1d9bccb6fd00", "Value": 0 }
+        ],
+        "items": [
+          { "id": "782c1917-1141-4d3d-b705-1136e3cad230", "ValeurRealTime": 0 },
+          { "id": "aa8982b3-cbdb-4ba9-a5df-1f8a064ddad2", "ValeurRealTime": 0 },
+          { "id": "ae597766-93e8-43ab-a499-054f90fe135c", "ValeurRealTime": 0 },
+          { "id": "553e828f-2099-4f28-86aa-549760d21904", "ValeurRealTime": 0 },
+          { "id": "4c0a4a94-ce1a-4ea2-965e-df7147503655", "ValeurRealTime": 0 },
+          { "id": "ba78368f-10a5-4105-827d-6667e9282bb2", "ValeurRealTime": 0 },
+          { "id": "cf0c76dd-dba3-4a5c-83c4-0878bd37a9cb", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "6074fbe5-b76d-47f1-998c-f4462d6710fa",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "c0eb3e0e-e885-4360-88f8-690d132e7aad", "Value": 0 },
+          { "id": "12cc8442-60ac-4df6-8c1b-79f21c8888e3", "Value": 0 },
+          { "id": "2cba3447-1f05-4f1d-8cfd-947614c17547", "Value": 0 },
+          { "id": "031ef06d-3426-45f1-b6ef-abf731c8c06f", "Value": 0 },
+          { "id": "b3f10e93-0a85-48b2-950a-1f45128b4a2d", "Value": 0 }
+        ],
+        "items": [
+          { "id": "0e5742c8-9c56-4182-9efc-fbaef364a92f", "ValeurRealTime": 0 },
+          { "id": "a0b165cc-60a0-4e76-88b7-1e610c77b9dc", "ValeurRealTime": 0 },
+          { "id": "e8388511-e8b4-4fa1-93eb-71efba2bdb39", "ValeurRealTime": 0 },
+          { "id": "2b6b5f36-2815-4580-a885-74b8013453ad", "ValeurRealTime": 0 },
+          { "id": "bceac858-fc0f-4f82-af5c-74a5217431a8", "ValeurRealTime": 0 },
+          { "id": "d08a5622-efbc-4ed8-8f65-268f642c4cd3", "ValeurRealTime": 0 },
+          { "id": "06954632-694d-4460-8165-76154a668387", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "2329eb34-4260-4300-9966-77e17d2a1a42",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "3429de40-766a-4f96-ba15-52d102b82cc7",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "ee017bf3-053c-4fec-a0b9-88ef1b07308d", "Value": 0 },
+          { "id": "d5bc1bb7-6e3c-4617-a2f4-8ab8df788b3a", "Value": 0 },
+          { "id": "8a4b7f14-657a-46f8-b5fd-eb04dc0ba36f", "Value": 0 },
+          { "id": "87c58e00-56f9-46e0-ab40-9f7e0e67ec46", "Value": 0 },
+          { "id": "43e41b36-9804-4250-beb4-9ea23c5f3229", "Value": 0 }
+        ],
+        "items": [
+          { "id": "6e5a4952-7296-4023-a06b-d6e7551ae4df", "ValeurRealTime": 0 },
+          { "id": "5f07b974-f225-43dd-bedd-b5d1176be46c", "ValeurRealTime": 0 },
+          { "id": "712dc0e4-837d-4853-815e-c8841e982ccd", "ValeurRealTime": 0 },
+          { "id": "c08c0c44-45eb-4b7c-802f-9d85eaa11c6c", "ValeurRealTime": 0 },
+          { "id": "112c3410-35d6-4954-b866-760e4066a64a", "ValeurRealTime": 0 },
+          { "id": "cfa5afa6-3ab8-4558-9029-f00e19f0af5d", "ValeurRealTime": 0 },
+          { "id": "f7bd56e0-bd5b-4f0f-9b3d-9b73f9502b1f", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "cbef6787-0481-4bec-b408-a16f16cc8888",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "d5928acf-8982-4af9-bfd2-8d035ca84233", "Value": 0 },
+          { "id": "bba577e0-18fa-4a30-8494-cd673572d4f3", "Value": 0 },
+          { "id": "d5ae5dc3-f2ab-4bd4-b80c-ce70f52bb03f", "Value": 0 },
+          { "id": "9f7b0532-5a56-43bb-8943-099576abafbb", "Value": 0 },
+          { "id": "5ec85a0d-6975-4103-ab13-15976d5cd8b8", "Value": 0 }
+        ],
+        "items": [
+          { "id": "e672107f-b4e7-45cb-9689-41f90c2bcbb3", "ValeurRealTime": 0 },
+          { "id": "7bc74cfb-339a-4096-93c4-0af21ded94c1", "ValeurRealTime": 0 },
+          { "id": "f8247222-c24a-4d9e-880b-86fb298ec618", "ValeurRealTime": 0 },
+          { "id": "2699a181-f1a3-4788-b8fe-77d56ca70bee", "ValeurRealTime": 0 },
+          { "id": "f24cb452-7d1f-40ac-afb3-7401be294319", "ValeurRealTime": 0 },
+          { "id": "3ed33e9e-c04c-4c24-886e-9ef3715867f0", "ValeurRealTime": 0 },
+          { "id": "ff23c97a-a3e9-4c7d-89a8-f0a49c516a87", "ValeurRealTime": 0 },
+          { "id": "0ee44d95-5ef1-41f4-ab72-4011ab4c4c4a", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "60cd5239-629e-41b2-a9b8-2388e6a03080",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "6234f51d-dcdd-4844-b383-7d79e425cd5d",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "d2ea81bc-4ad8-4f65-bb95-c43a98e44e78", "Value": 0 },
+          { "id": "0f05192d-bb41-467e-af3d-63748283e315", "Value": 0 },
+          { "id": "44393d0e-b92e-42cc-970e-8d59ce632e41", "Value": 0 },
+          { "id": "72056176-a245-4010-b27d-9e2b3b86594d", "Value": 0 },
+          { "id": "f2ce6544-536a-4d02-9aec-ac4817351379", "Value": 0 }
+        ],
+        "items": [
+          { "id": "a6959f8a-5ff9-4055-b1da-8eeebcef060f", "ValeurRealTime": 0 },
+          { "id": "06ede38c-6d17-44e0-a2a1-d1e11d7b0cc0", "ValeurRealTime": 0 },
+          { "id": "02d925c5-1b3e-4f37-8a45-0f4beb314b5e", "ValeurRealTime": 0 },
+          { "id": "630c5972-cb20-4e81-a58f-160de2b3d78c", "ValeurRealTime": 0 },
+          { "id": "c2ba075d-4093-4982-9149-aac886c29cc0", "ValeurRealTime": 0 },
+          { "id": "2ec9c0a8-2a60-4fc5-8160-e587e510d539", "ValeurRealTime": 0 },
+          { "id": "4c227ec7-5fa5-4989-855b-57fefc46247e", "ValeurRealTime": 0 },
+          { "id": "d242d80b-2a0d-4acc-aedc-e692880857a4", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "9aa2c98d-9f93-42a7-a7b4-96b60d509bc4",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "3e718ad9-b677-4c16-b61e-75ae5c4a7e66", "Value": 0 },
+          { "id": "88a34e64-12bc-4c6a-ace8-071b7ce7765c", "Value": 0 },
+          { "id": "26f39ab2-c583-4eb9-b871-d23ed5ac227d", "Value": 0 },
+          { "id": "f7c6d62e-b2f9-4890-b465-184a73e3c280", "Value": 0 },
+          { "id": "ea549c8c-1021-46cf-b642-a6caf1821dc8", "Value": 0 }
+        ],
+        "items": [
+          { "id": "45fd3c56-5830-4f68-bab7-7c937083dd24", "ValeurRealTime": 0 },
+          { "id": "35814325-79e0-45c7-8b33-bc2f980ebe11", "ValeurRealTime": 0 },
+          { "id": "e2ebd409-e0f3-4334-83d6-d25b2a00bed3", "ValeurRealTime": 0 },
+          { "id": "3c401f2e-995e-4e8b-b376-0e4bc7f039dd", "ValeurRealTime": 0 },
+          { "id": "06b4a0bd-9fca-4a12-88fb-4d0974e3f5cf", "ValeurRealTime": 0 },
+          { "id": "3ed60e3d-6265-4f98-898e-54ca2254a0aa", "ValeurRealTime": 0 },
+          { "id": "b34a424f-0a70-4d65-a2e9-65edae51e795", "ValeurRealTime": 0 },
+          { "id": "f51c838e-3b73-46b4-8142-3ebc9ad6202c", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "f05cba85-04ea-4c67-b1f2-424ace7b0032",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "cc7b6b07-1f77-4b1b-af82-ebdd014cd9da",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "c733d525-e9e2-441c-8a64-7652d793fc67", "Value": 0 },
+          { "id": "ea696033-c766-434e-99b4-07e39d94d93a", "Value": 0 },
+          { "id": "5651ccdb-aecb-4d42-b365-ef61f4222432", "Value": 0 },
+          { "id": "50d6ca06-5dcd-44d9-beac-9b15a864d817", "Value": 0 },
+          { "id": "7bac5c88-4df7-4c82-9408-cffd586d4862", "Value": 0 }
+        ],
+        "items": [
+          { "id": "feb74a93-9768-4ef0-aeb7-724ecdd65e51", "ValeurRealTime": 0 },
+          { "id": "fdc8c357-f713-4e88-9cdd-3421fc5975c0", "ValeurRealTime": 0 },
+          { "id": "a8df39b1-89da-401e-b12b-7d4439ebde7e", "ValeurRealTime": 0 },
+          { "id": "3962f49b-da78-467e-8aa1-bfe199af1592", "ValeurRealTime": 0 },
+          { "id": "a822a4db-7090-46bb-8c04-077f620fee2b", "ValeurRealTime": 0 },
+          { "id": "a4b1d92b-044f-4a75-a4ce-7cd8003a01ae", "ValeurRealTime": 0 },
+          { "id": "4e12069c-dd99-47c8-b4a5-3ae1565a478f", "ValeurRealTime": 0 },
+          { "id": "338ad8f6-9989-434e-a66a-57b342589a8a", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "2ca401e1-c36e-4c07-b0c1-1562d0e65fc4",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "41a6bc6d-4fba-4e11-a85c-3699175c5127", "Value": 0 },
+          { "id": "c373753e-ffec-41d5-878b-76c4bf96421d", "Value": 0 },
+          { "id": "6661771d-5ab1-436a-8083-0caf94f17fea", "Value": 0 },
+          { "id": "7edf8dfd-3296-4395-bad5-738cf480986c", "Value": 0 },
+          { "id": "eef45e3d-d95f-4f73-bbe0-591f63f46953", "Value": 0 }
+        ],
+        "items": [
+          { "id": "82c63e6f-3f38-4d30-9ed4-1324fba519f8", "ValeurRealTime": 0 },
+          { "id": "1f684121-01eb-4b58-8a0b-805819d549fd", "ValeurRealTime": 0 },
+          { "id": "749500d3-1e9c-4ea1-8893-9f5ff75b7447", "ValeurRealTime": 0 },
+          { "id": "18714f23-21fa-45a2-b12d-d119290bce62", "ValeurRealTime": 0 },
+          { "id": "c18cc1fa-4a09-4320-ae21-a3f3df981ca8", "ValeurRealTime": 0 },
+          { "id": "c528d477-b63b-4a77-af60-2b479b0e4eae", "ValeurRealTime": 0 },
+          { "id": "5476d154-2622-46d2-85fa-ef63d67ad9b0", "ValeurRealTime": 0 },
+          { "id": "e8fd3a14-a9bb-4ab4-ba46-7f776b186770", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "1c735e97-46c5-4261-907e-0106324444af",
+    "ValeurRealTime": -1,
+    "equipements": [
+      {
+        "id": "13e9b7c0-77f2-499b-a704-29029bde190c",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "1da997f3-1747-4c0b-8281-9ac04e774455", "Value": 0 },
+          { "id": "4a0559a4-6d5d-4b6b-927a-152402817809", "Value": 0 },
+          { "id": "8e05d57f-8df3-42f9-8a9c-c5f4c897da2f", "Value": 0 },
+          { "id": "3f3f0570-60e0-4203-9170-9ef584390297", "Value": 0 },
+          { "id": "0012e6e7-e945-4781-a8d6-f451fe36c44f", "Value": 0 }
+        ],
+        "items": [
+          { "id": "62455030-9822-4204-8b0e-6cd3676e08cd", "ValeurRealTime": 0 },
+          { "id": "ea590aec-8f5a-45b8-89c6-3ed1c802dd7f", "ValeurRealTime": 0 },
+          { "id": "236f277c-df2c-41be-b99d-0404f9bc38cf", "ValeurRealTime": 0 },
+          { "id": "c582548a-9e48-45dd-8fc5-b6533710b378", "ValeurRealTime": 0 },
+          { "id": "259b7703-6fa1-4265-8b56-d9c9e7d480a4", "ValeurRealTime": 0 },
+          { "id": "d5c83ac8-5730-4370-82c3-df9fef5b5922", "ValeurRealTime": 0 },
+          { "id": "35e2a0f3-91fe-40a5-a5b4-f698170058ee", "ValeurRealTime": 0 },
+          { "id": "1dc390a9-d440-433e-bf51-44d93a0a4e4c", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "cbcd33c7-1334-43f9-8241-b04a48120edf",
+        "LevelRealTime": 1,
+        "extra_data": [
+          { "id": "348506a8-5b54-484f-beac-4ce4447e0645", "Value": 0 },
+          { "id": "4708d7f5-d1aa-4ed5-ba51-911b17316eaa", "Value": 0 },
+          { "id": "122bfb04-878d-47da-88b1-7878c3205a5b", "Value": 0 },
+          { "id": "35ed701a-84cc-43d0-880f-7f7706b97f79", "Value": 0 },
+          { "id": "42f31bb5-799d-48e3-aa1e-43edb6b09fac", "Value": 0 }
+        ],
+        "items": [
+          { "id": "00e6529a-8aa4-4699-8dcd-3112bd222304", "ValeurRealTime": 0 },
+          { "id": "ccab3100-527c-4f04-8ec9-6bca6a899252", "ValeurRealTime": 0 },
+          { "id": "ec23ea5f-2b63-443d-bb27-c7757404f50e", "ValeurRealTime": 0 },
+          { "id": "62231405-44a7-43df-963c-ba13004b9ba9", "ValeurRealTime": 0 },
+          { "id": "1802f60f-db4a-4002-9a84-aabc66703a23", "ValeurRealTime": 0 },
+          { "id": "3ee83cde-f2ef-4415-bee9-a00ee2b837ae", "ValeurRealTime": 0 },
+          { "id": "e18c3170-5716-4412-96ba-e827be07df2f", "ValeurRealTime": 0 },
+          { "id": "f2a9560c-6842-4eaf-bc5d-4211c1048a2e", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "a77bfa52-4c86-48b6-9118-24f96b33dd65",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "a74c29cb-5458-475f-b83e-eed468662054",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "36f4a555-2ccf-4aaa-bc95-12e50d6d0afd", "Value": 0 },
+          { "id": "48a16d4a-452f-4ee2-93ec-1a204f3e4f58", "Value": 0 },
+          { "id": "3f7e432c-d497-4d8f-a3d8-9ed948f3dfc1", "Value": 0 },
+          { "id": "943a0660-c644-4579-b5ef-4c989bb07aba", "Value": 0 },
+          { "id": "0b589935-5b2a-4e9d-b8d1-ed9f7ce03531", "Value": 0 }
+        ],
+        "items": [
+          { "id": "d0ae50fa-e648-49a9-80d9-9787bc6c08c9", "ValeurRealTime": 0 },
+          { "id": "4d484cee-85ce-4a16-b771-54ecd18b6808", "ValeurRealTime": 0 },
+          { "id": "2d280502-74e2-4081-94c5-901469eaec1b", "ValeurRealTime": 0 },
+          { "id": "a2a5db24-de5a-41b3-a447-faf16de88e27", "ValeurRealTime": 0 },
+          { "id": "2f664eee-c611-4666-812b-4e6c6c87c0b1", "ValeurRealTime": 0 },
+          { "id": "ddcef445-0008-417f-8b86-3ab1ed45ac77", "ValeurRealTime": 0 },
+          { "id": "abaa5f60-3dec-4f0e-ac55-044cd215ffda", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "48637d1d-5faa-4e1b-8055-7595008555f0",
+        "LevelRealTime": 0,
+        "extra_data": [],
+        "items": [
+          { "id": "c9d04530-e65c-47cf-a8e9-e40b31ea51d0", "ValeurRealTime": 0 },
+          { "id": "ff28aed7-c126-4601-9599-cc63c88d68a5", "ValeurRealTime": 0 },
+          { "id": "ab87038a-af02-4938-9fe6-e3f605b2daea", "ValeurRealTime": 0 },
+          { "id": "094e1d4c-6bef-4872-b422-9ced414e3a28", "ValeurRealTime": 0 },
+          { "id": "2f4302a6-8598-4947-b59c-68c05c6ac2b0", "ValeurRealTime": 0 },
+          { "id": "11eaa436-36fe-49ea-8d03-54426e9eae71", "ValeurRealTime": 0 },
+          { "id": "66216d12-de65-474c-8ad9-4ac115825dd6", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "3d0a3bd0-c602-4fa1-96a6-fc9ae8e8af46",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "9cf46d13-6597-4cb9-8700-c53d944095f3",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "0b0cbcf5-d7ac-4c82-bf79-98d23adfda44", "Value": 0 },
+          { "id": "443310e3-322e-4ea5-b830-d277af3f9f19", "Value": 0 },
+          { "id": "dad1785a-5f3e-4c97-b387-0ae39732aa92", "Value": 0 },
+          { "id": "08512a66-30c8-449a-98d7-e1d74c2193ea", "Value": 0 },
+          { "id": "bc29297f-be81-4485-99c3-e3f7e8b0f894", "Value": 0 }
+        ],
+        "items": [
+          { "id": "546007bb-f358-4df0-9c03-8bca7ce04b18", "ValeurRealTime": 0 },
+          { "id": "8f915588-57c6-4bc8-95b1-49fdd2a2fbcc", "ValeurRealTime": 0 },
+          { "id": "90c7ad54-6ccc-4fb7-929c-8025f1d83b64", "ValeurRealTime": 0 },
+          { "id": "df227915-4db4-478b-b834-974b709a815a", "ValeurRealTime": 0 },
+          { "id": "3dc873c9-d1e6-44f7-9aaf-567f6db27cbf", "ValeurRealTime": 0 },
+          { "id": "2a3ccddb-6ebc-4e1f-aece-11b041a9433c", "ValeurRealTime": 0 },
+          { "id": "246dcbef-334d-4a00-b760-086ead70c5c1", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "0fa1a261-5f06-4581-b4b2-f3a68b510f19",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "0cd15620-deb9-469e-88e5-a7f97195b74a", "Value": 0 },
+          { "id": "63e1af8e-f13a-40e9-8af8-30150a02a23b", "Value": 0 },
+          { "id": "67ca878e-2e3b-4aa2-9bec-049ef4057685", "Value": 0 },
+          { "id": "3c73fd20-72aa-4e7f-a2e8-1476ea6f09b4", "Value": 0 },
+          { "id": "515b582c-ee3c-4065-9ce4-4f0eca767e1d", "Value": 0 }
+        ],
+        "items": [
+          { "id": "11a6fd4c-0e36-4309-9a65-1bbcf6c01d7f", "ValeurRealTime": 0 },
+          { "id": "f3b20fff-f122-48ca-b48f-555598317a27", "ValeurRealTime": 0 },
+          { "id": "bdeaf168-b04c-41be-8394-30ec16c13c46", "ValeurRealTime": 0 },
+          { "id": "8e9032c6-01b0-47b5-b0ba-208205f626a0", "ValeurRealTime": 0 },
+          { "id": "89008258-8f28-421c-a0d5-05f65d14fd62", "ValeurRealTime": 0 },
+          { "id": "a94474a2-052a-4689-8206-6f15eeaf578b", "ValeurRealTime": 0 },
+          { "id": "997645dd-be63-4d89-8bdd-2f4f9d4406d9", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "695f76ca-8e0d-4193-ae65-e541d1621f4e",
+    "ValeurRealTime": -1,
+    "equipements": [
+      {
+        "id": "85930d58-d6a9-46ac-bd33-7fd6107bf9ea",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "55a5e355-56e8-4b90-9993-1d37022072d6", "Value": 0 },
+          { "id": "2bb3a436-8436-4e56-aaaf-9abec40080bc", "Value": 0 },
+          { "id": "bc5175ba-ca5c-4246-80c8-583934f17d67", "Value": 0 },
+          { "id": "04451e8c-a227-478b-9f3c-ef1ac6510c54", "Value": 0 },
+          { "id": "a8266cd0-221d-4670-a367-b6b7102943a1", "Value": 0 }
+        ],
+        "items": [
+          { "id": "9b7b7738-8e38-401a-84e2-0a0c82a47495", "ValeurRealTime": 0 },
+          { "id": "8130d48a-8b4e-4c88-a1fe-bfb62e68b8bb", "ValeurRealTime": 0 },
+          { "id": "95f9354f-cca3-43a5-8e12-e7de93a9b59e", "ValeurRealTime": 0 },
+          { "id": "12e35978-7d1e-4c53-8434-44f28dfabc28", "ValeurRealTime": 0 },
+          { "id": "0908ad7f-40fd-4528-a333-d534275aefb3", "ValeurRealTime": 0 },
+          { "id": "402126d3-3ab1-4665-9f88-354e51260afb", "ValeurRealTime": 0 },
+          { "id": "76463678-2702-40da-8bdb-a8c664231b70", "ValeurRealTime": 0 },
+          { "id": "dbff9df6-6757-4c42-9bc9-734590f55168", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "ddb21583-0868-4d11-9183-9a2f1d3c1a00",
+        "LevelRealTime": 2,
+        "extra_data": [
+          { "id": "17bd88ca-cefd-4ad4-83cb-af8c68e16913", "Value": 0 },
+          { "id": "6a13843b-c2e3-4bc6-8d9d-98aef8582739", "Value": 0 },
+          { "id": "a02b55b8-3ae6-431a-800a-ddf3cc75d4d9", "Value": 0 },
+          { "id": "11b88dda-9cba-43c0-b166-d3149db08d18", "Value": 0 },
+          { "id": "9bb11721-de6a-44ec-8f9d-dc402e049ed1", "Value": 0 }
+        ],
+        "items": [
+          { "id": "33e7578e-2489-431d-933a-20d1d458216a", "ValeurRealTime": 0 },
+          { "id": "16e69e8d-4d39-4aab-be9f-e816df1d38a3", "ValeurRealTime": 0 },
+          { "id": "b2925392-065e-42dc-81a3-cc501e157803", "ValeurRealTime": 0 },
+          { "id": "7f3a17e5-8a47-4035-ba5c-e1575f4ca119", "ValeurRealTime": 0 },
+          { "id": "c2f7ef0f-f12e-465b-bcdc-4159d15260c1", "ValeurRealTime": 0 },
+          { "id": "5e0aa510-0362-4cb4-ae77-a4ebece62588", "ValeurRealTime": 0 },
+          { "id": "cc5152e6-55c7-4651-af66-2c1a84c1d6e4", "ValeurRealTime": 0 },
+          { "id": "952ac6be-7080-45bb-8db4-cc30d7dded98", "ValeurRealTime": 0 }
+        ],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "8d78740a-571c-4dfc-bd11-aa60a5e82427",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "e9d6db31-0250-41d5-95aa-fb866e67e12e",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "0cc02bfb-35ba-4225-a677-f9843d8f4424", "Value": 0 },
+          { "id": "43060f35-3fa2-433e-907f-2fe3d5934a21", "Value": 0 },
+          { "id": "b00f2008-2cf5-4a03-9759-a273fa8c7791", "Value": 0 },
+          { "id": "eea7fe84-6d47-40ea-b97c-c67dd9b21bc4", "Value": 0 },
+          { "id": "d0d9009c-1209-4f08-844a-28b2a4a42a01", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "6d5e3aaf-be12-4dc5-85fb-36a9e0a6024e",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "952f1d4e-c2ec-408a-94bc-b6b02ce72212", "Value": 0 },
+          { "id": "04d27117-27b0-4cc7-9dd3-f295c26bfd75", "Value": 0 },
+          { "id": "1cd13f65-7489-43d2-bb0d-5b397e20fe39", "Value": 0 },
+          { "id": "63b26cea-76e3-4302-a20c-fa0df85b3a21", "Value": 0 },
+          { "id": "f460200d-c204-4a7b-95a0-2b11b191e995", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "78afee34-9bf4-4e47-a975-54237ccd1709",
+    "ValeurRealTime": -1,
+    "equipements": [
+      {
+        "id": "5214d9b4-224f-4222-9acf-c9e02241fb17",
+        "LevelRealTime": 1,
+        "extra_data": [
+          { "id": "8af426a1-2961-4327-9e92-f6d00e8dc717", "Value": 0 },
+          { "id": "3d048951-6829-47da-83df-895502dee36a", "Value": 0 },
+          { "id": "6fa59819-8fda-4fc3-887f-ddb6635957f3", "Value": 0 },
+          { "id": "e7ddbdda-0747-4136-8070-748ea4b6045b", "Value": 0 },
+          { "id": "8bed100f-6ab3-46eb-8cf9-d40ac848daeb", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "1fdf6c1c-c1e8-468f-9a40-63a1dbe07acb",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "3a954d5a-9e8e-4682-8db0-fe6edff01f98", "Value": 0 },
+          { "id": "f6a25778-36ca-4cfd-8e6c-5dbecf9fddb0", "Value": 0 },
+          { "id": "01f77d89-8ecd-4654-b1c2-b8b9604a79b8", "Value": 0 },
+          { "id": "5ca05b38-914a-47b9-af1e-6450aca95971", "Value": 0 },
+          { "id": "e9f2a5d7-4905-47e3-8e7d-37df1076ffa4", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "4d49c0f7-febc-4913-a9f9-30e35d647adf",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "06664c1e-336d-403f-880c-7996365dcc16",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "e779614f-43d7-4d5a-ac98-efdfe3159a24", "Value": 0 },
+          { "id": "5580c200-14d5-40d2-8f83-d95004dae620", "Value": 0 },
+          { "id": "f74ee26a-c75b-4028-a032-7aaf926c2895", "Value": 0 },
+          { "id": "d665d3b1-0d53-46f3-8901-d484fd60ba9e", "Value": 0 },
+          { "id": "203bb059-3240-4b57-80ad-81f5147a6d1a", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "a515395e-f157-46b8-a961-a66c7d68f8a1",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "c254501d-badb-4358-9e88-abf5b13c0eca", "Value": 0 },
+          { "id": "d60d5c64-855d-4ef1-b2a1-f70bc9cea926", "Value": 0 },
+          { "id": "0115b5a5-cfd9-4df2-ab6b-257672032044", "Value": 0 },
+          { "id": "e7e282a4-3ebe-4005-877c-d61572481940", "Value": 0 },
+          { "id": "d35900b4-1af2-43e1-a059-02c6e923359d", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "6fed3c75-4871-4d77-aba8-2537660db9fd",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "4f774b9b-f6db-46d6-9a3d-80776d875317",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "aecc1d30-cbb4-4bcf-b6bb-16fc46f88a66", "Value": 0 },
+          { "id": "7e8a7d66-204c-4532-98a7-4a4a0a3ae576", "Value": 0 },
+          { "id": "0394308b-5a83-437c-ad9b-939cccb90cb1", "Value": 0 },
+          { "id": "83213259-204f-4c6a-b2b2-8b081e546a6c", "Value": 0 },
+          { "id": "dd9afbb6-9570-4c53-b0e4-44cc17d3dd02", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "933b13bf-574a-41b8-9146-c82ddec2f925",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "677ea053-998c-4345-8e4d-e541f1735303", "Value": 0 },
+          { "id": "4e2273bd-e024-49a8-930e-71899938559b", "Value": 0 },
+          { "id": "10e17786-fe42-4831-9c2b-8aed90a52b81", "Value": 0 },
+          { "id": "e6d6fbd8-d79d-41d1-9f41-e01ac0007a1a", "Value": 0 },
+          { "id": "6caf6e38-25c1-4a12-a20a-3d8f4e2f4ed5", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      }
+    ]
+  },
+  {
+    "id": "1a694a24-b9f6-45f2-b6f5-2cccfb46c63a",
+    "ValeurRealTime": 0,
+    "equipements": [
+      {
+        "id": "762c77c9-9379-47fb-a7dc-e434442d15d2",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "3dd1bb67-455e-43dd-bb88-7bdee287607c", "Value": 0 },
+          { "id": "72445821-dce2-4dd3-b153-5a537a9db7af", "Value": 0 },
+          { "id": "87cb5bc5-771b-402a-936e-334f9c443f25", "Value": 0 },
+          { "id": "356e77ac-3049-49d7-a720-0cccfd93f4b1", "Value": 0 },
+          { "id": "684972fa-44f8-4fa0-bffb-15ac0d31a618", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      },
+      {
+        "id": "181723be-3482-48f9-a9d3-437676994f58",
+        "LevelRealTime": 0,
+        "extra_data": [
+          { "id": "70765ff6-cc5d-4955-8baa-e3865a89991e", "Value": 0 },
+          { "id": "7cc3fcbb-14c3-4d06-ab2b-f25f52d4c79a", "Value": 0 },
+          { "id": "3dd26f78-fee3-4d8a-aa8e-49e026c197ca", "Value": 0 },
+          { "id": "057cd65c-c5f0-4439-ac50-bf3adf0ce8b7", "Value": 0 },
+          { "id": "a199526e-22b9-4e49-a286-709addbf5303", "Value": 0 }
+        ],
+        "items": [],
+        "ModeTel_Value": 0
+      }
+    ]
+  }
+]
