@@ -287,19 +287,26 @@ class CommandHandler(object):
    if True: 
       if(type([]) == type(data)):
        for i,item in enumerate(data,start=0):
-        try: 
-         l1 = self.PM.cmd_set_value(int(item["Adress"]),int(item["value"]),6)
+        try:  
+         
+         if('type' in item):     
+           if item["type"] =="register"  :
+              l1 = self.PM.cmd_set_value(int(item["Adress"]),int(item["value"]),6)
+           else:   
+              l1 = self.PM.cmd_set_value(int(item["Adress"]),int(item["value"]))       
+         else:
+          l1 = self.PM.cmd_set_value(int(item["Adress"]),int(item["value"]))
+
          log.debug("Output Command: %s",l1)
         except: 
          log.error("Commande : %s, value: %s An exception occurred",item["Adress"],item["value"])
 
-
+    
       else:
        l1 = self.PM.cmd_set_value(int(data),1)
        log.debug("Output Command: %s",l1)
-
-   except: 
-    log.error("Commande : %s An exception occurred",data)
+       #except: 
+       #log.error("Commande : %s An exception occurred",data)
 
 
   def readHoldingRegisters(self):
