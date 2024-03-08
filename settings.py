@@ -1,11 +1,22 @@
 #
-__author__ = 'lucab85'
+import configparser
+
+
+def read_config(filename):
+    config = configparser.ConfigParser()
+    config.read(filename)
+    return config['Settings']
+
+
+config = read_config('config.ini')
+
+__author__ = 'Zakaria El Hedadi'
 
 debug = True
 
 PM_config = {
-	'host': '192.168.1.140',
-	'port': 502,
+	'host': config.get("PM_HOST"),
+	'port': config.get("PM_PORT"),
 	'address': 1,
 	'addressoffset': -1,
 	'start_reg': 0,
@@ -17,8 +28,8 @@ PM_config = {
 }
 
 BACKEND_config = {
-	'socket_url': 'http://localhost:4001',
-	'config':'http://localhost:3001'
+	'socket_url': config.get("SOCKET_URL"),
+	'config':config.get("API_URL")
 
 }
 PM_settings = {

@@ -78,20 +78,20 @@ class ModbusWrapperClient():
 					# Read Coil Status (FC=01)
 			
 		
-					result = self.client.read_coils(address, count=count, unit=self.modbusAddress)
+					result = self.client.read_coils(address, count=count, slave=self.modbusAddress)
 					tmp = result.bits
 				elif mb_funcall == 2:
 					# Read Dscrete Input (FC=02)
-					result = self.client.read_discrete_inputs(address, count=count, unit=self.modbusAddress)
+					result = self.client.read_discrete_inputs(address, count=count, slave=self.modbusAddress)
 					tmp = result.bits
 				elif mb_funcall == 3:
 					# Read Holding Registers (FC=03)
-					result = self.client.read_holding_registers(address, count=count, unit=self.modbusAddress)
+					result = self.client.read_holding_registers(address, count=count, slave=self.modbusAddress)
 					if result != None:
 						tmp = result.registers
 				elif mb_funcall == 4:
 					# Read Input Registers (FC=04)
-					result = self.client.read_input_registers(address, count=count, unit=self.modbusAddress)
+					result = self.client.read_input_registers(address, count=count, slave=self.modbusAddress)
 					#tmp = result.bits
 					if result != None:
 						tmp = result.registers
@@ -122,16 +122,16 @@ class ModbusWrapperClient():
 			try:
 				if mb_funcall == 5:
 					# Single Coil (FC=05) => modbus_write_bit
-					result = self.client.write_coil(address, value, unit=self.modbusAddress)
+					result = self.client.write_coil(address, value, slave=self.modbusAddress)
 				elif mb_funcall == 6:
 					# Single Register (FC=06)
-					result = self.client.write_register(address, value, unit=self.modbusAddress, skip_encode=skip_encode)
+					result = self.client.write_register(address, value, slave=self.modbusAddress, skip_encode=skip_encode)
 				elif mb_funcall == 15:
 					# Multiple Coils (FC=15) => modbus_write_bits
-					result = self.client.write_coils(address, value, unit=self.modbusAddress)
+					result = self.client.write_coils(address, value, slave=self.modbusAddress)
 				elif mb_funcall == 16:
 					# Multiple Registers (FC=16)
-					result = self.client.write_registers(address, value, unit=self.modbusAddress, skip_encode=skip_encode)
+					result = self.client.write_registers(address, value, slave=self.modbusAddress, skip_encode=skip_encode)
 				else:
 					log.warn("Function call not supported: %s" % mb_funcall)
 			except Exception as e:

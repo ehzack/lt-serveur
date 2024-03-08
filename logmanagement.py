@@ -43,7 +43,7 @@ class logmanagement():
 				self._changePath(config["handlers"])
 			self.logconf = logging.config.dictConfig(config)
 		else:
-			print("Configurazione log non trovata (\"%s\"): applico le impostazioni predefinite" % path)
+			print("Log configuration not found(\"%s\"): applying default settings" % path)
 			self.logconf = logging.basicConfig(level=default_level)
 
 	def _changePath(dictionary):
