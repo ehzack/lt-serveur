@@ -341,9 +341,12 @@ class CommandHandler(object):
 #      if self.PM.mb.isConnected is False:
 #        continue
       try:
+        log.debug('Start Reading Coils %s ',json.dumps(self.coils_values))
         self.readCoils()
         log.debug('Reading Coils %s ',json.dumps(self.coils_values))
 
+
+        log.debug('Start Coils %s ',json.dumps(self.coils_values))
         self.readHoldingRegisters()
         log.debug('Reading Registers %s ',json.dumps(self.holding_registers_values))
 
